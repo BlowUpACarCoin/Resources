@@ -1,8 +1,8 @@
 {
     "name": "GUAC",
     "symbol": "GUAC",
-    "description": "We gell up progessively nicer cars at each market cap milestone. Learn more at gellupacarcoin.com.",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "description": "We gell up progressively nicer cars at each market cap milestone. Learn more at gellupacarcoin.com.",
+    "image": "https://raw.githubusercontent.com/BlowUpACarCoin/Resources/main/guacImage.png",
     "attributes": [
       {
         "trait_type": "Item",
