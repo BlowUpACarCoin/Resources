@@ -1,12 +1,7 @@
 {
-    "name": "GUAC",
-    "symbol": "GUAC",
+    "name": "Pickle",
+    "symbol": "PKLE",
+    "description": "Buy if you love pickles!",
     "image": "https://raw.githubusercontent.com/BlowUpACarCoin/Resources/main/guacImage.png",
-    "description": "We gell up progressively nicer cars at each market cap milestone. Learn more at gellupacarcoin.com.",
-    "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "GUAC"
-      }
-    ]
+    "showName": true
 }
